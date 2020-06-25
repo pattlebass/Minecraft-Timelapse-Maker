@@ -2,6 +2,9 @@
 
 This tool allows you to take screenshots of your Minecraft world automatically.
 
+![Image1](https://i.ibb.co/1TcW2z9/1.png)
+![Image2](https://i.ibb.co/1TcW2z9/1.png)
+
 ## How to use:
 - Run the program
 - Open Minecraft in Windowed Mode
