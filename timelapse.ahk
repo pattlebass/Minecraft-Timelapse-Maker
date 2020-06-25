@@ -10,7 +10,7 @@ delay := 1000
 
 F10::
 
-InputBox, numberOfPhotos, Timelapse Maker, Enter how many photos you want`n24 if you want one photo for every hour`, 48 if you want one for every 30 minutes`, etc
+InputBox, numberOfPhotos, Timelapse Maker, Enter how many photos you want.
 InputBox, userDelay, Timelapse Maker, Enter the delay between the screenshots being taken in ms (Default: 1000)
 loops := numberOfPhotos
 step := Floor(24000 / loops)
